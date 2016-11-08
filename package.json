@@ -4,9 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+	"start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s00d/skb-start.git"
+  },
+  "author": "s00d",
   "license": "ISC",
   "dependencies": {
     "node-static": "^0.7.9",
